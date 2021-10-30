@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @WAYSHOUN-
-- 👀 Je suis intéressé par les Dev de Site Web
-- 🌱 J'apprend Actuellement a Dev En HTML 
-- 📫 Pour me joindre il faut venir sur mon discord : https://discord.gg/XJMANybkfX
